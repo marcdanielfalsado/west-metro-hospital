@@ -15,7 +15,7 @@
 </p>
 
 <!-- other-work-footer -->
-<p align="center">Feel free to browse my other public projects on my repos and website</p>
+<p align="center">just check my repos</p>
 
 <p align="center">
   <a href="https://github.com/marcdanielfalsado?tab=repositories">
@@ -23,6 +23,8 @@
   </a>
 </p>
 
+<p align="center">and check my website aswell!</p>
+
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisM6MZhBqxgWSo0gX0lKhgRAGpujgbPKCNRQx29Nw54kA-q_3cmr8BTkFllm6_Nks2pMURZjTCdvaV2GEHaTtmfeX_sQjYSWD10p0iNqASUKmcz_9l9potH3OHzvZ0ckVlsEEK/s1600/Omake+Gif+Anime+-+Boku+no+Hero+Academia+-+Episode+3+-+All+Might+Thumbs+Up.gif" alt="All Might giving a thumbs up" width="400" />
+  <img src="https://i.pinimg.com/originals/43/27/96/4327963e753603c22cad579e35fd4277.gif" alt="Anime GIF" width="400" />
 </p>
