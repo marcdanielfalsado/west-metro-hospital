@@ -15,10 +15,8 @@
 </p>
 
 <!-- other-work-footer -->
-<p align="center">Check out my other work in my repositories and on my website.</p>
+<p align="center">Feel free to browse my other projects on my repos and website</p>
 
 <p align="center">
-  <a href="https://github.com/marcdanielfalsado?tab=repositories">
-    <img src="./assets/other-work-profile.png" alt="My GitHub profile and other projects" width="1000" />
-  </a>
+  <img src="https://i.pinimg.com/originals/61/f7/8f/61f78fb6b2c20e2da4f7e59c2cd0c5ff.gif" alt="Anime GIF" width="400" />
 </p>
