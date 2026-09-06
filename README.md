@@ -15,7 +15,7 @@
 </p>
 
 <!-- other-work-footer -->
-<p align="center">just check my repos</p>
+<p align="center">Feel free to browse my other public projects on my repos</p>
 
 <p align="center">
   <a href="https://github.com/marcdanielfalsado?tab=repositories">
